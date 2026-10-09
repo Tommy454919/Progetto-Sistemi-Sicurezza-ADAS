@@ -6,6 +6,7 @@ const titles = {
   "/": "ADAS — La sicurezza che vede oltre",
   "/adas": "Cosa sono gli ADAS — ADAS",
   "/sistemi": "Sistemi ADAS — ADAS",
+  "/confronto": "Confronto sistemi — ADAS",
   "/sensori": "Sensori — ADAS",
   "/automazione": "Livelli di automazione — ADAS",
   "/sicurezza": "Sicurezza e limiti — ADAS",
